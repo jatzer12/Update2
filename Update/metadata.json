@@ -31,31 +31,13 @@
             "size": 196193
         },
         {
-            "checksum": 975551362,
-            "compressed_size": 93539,
-            "relative_path": "binkw32.dll",
-            "size": 166912
-        },
-        {
-            "checksum": 3934240363,
-            "compressed_size": 895522,
-            "relative_path": "d3dcompiler_42.dll",
-            "size": 1974616
-        },
-        {
-            "checksum": 0,
-            "compressed_size": 20,
-            "relative_path": "titi ni pani.txt",
-            "size": 0
-        },
-        {
             "checksum": 2228995218,
             "compressed_size": 364,
             "relative_path": "system\\config.ini",
             "size": 373
         }
     ],
-    "total_compressed_size": 3289020,
-    "total_files": 8,
-    "version": 17713896641570034
+    "total_compressed_size": 2299939,
+    "total_files": 5,
+    "version": 17713899409670847
 }
