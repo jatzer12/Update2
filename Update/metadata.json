@@ -1,0 +1,43 @@
+{
+    "files": [
+        {
+            "checksum": 975551362,
+            "compressed_size": 93539,
+            "relative_path": "bin\\binkw32.dll",
+            "size": 166912
+        },
+        {
+            "checksum": 3934240363,
+            "compressed_size": 895522,
+            "relative_path": "bin\\d3dcompiler_42.dll",
+            "size": 1974616
+        },
+        {
+            "checksum": 600949013,
+            "compressed_size": 850123,
+            "relative_path": "bin\\d3dx9_42.dll",
+            "size": 1892184
+        },
+        {
+            "checksum": 4249065823,
+            "compressed_size": 430788,
+            "relative_path": "bin\\dbghelp.dll",
+            "size": 986112
+        },
+        {
+            "checksum": 2387419398,
+            "compressed_size": 29967,
+            "relative_path": "bin\\list.csv",
+            "size": 196193
+        },
+        {
+            "checksum": 2228995218,
+            "compressed_size": 364,
+            "relative_path": "system\\config.ini",
+            "size": 373
+        }
+    ],
+    "total_compressed_size": 2299939,
+    "total_files": 5,
+    "version": 17714375138813214
+}
