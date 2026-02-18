@@ -1,0 +1,19 @@
+{
+    "files": [
+        {
+            "checksum": 0,
+            "compressed_size": 20,
+            "relative_path": "test.txt",
+            "size": 0
+        },
+        {
+            "checksum": 2228995218,
+            "compressed_size": 364,
+            "relative_path": "system\\config.ini",
+            "size": 373
+        }
+    ],
+    "total_compressed_size": 20,
+    "total_files": 1,
+    "version": 17713872016329393
+}
