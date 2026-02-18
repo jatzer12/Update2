@@ -1,6 +1,12 @@
 {
     "files": [
         {
+            "checksum": 3705835397,
+            "compressed_size": 72,
+            "relative_path": "banlist.txt",
+            "size": 60
+        },
+        {
             "checksum": 975551362,
             "compressed_size": 93539,
             "relative_path": "bin\\binkw32.dll",
@@ -31,13 +37,19 @@
             "size": 196193
         },
         {
+            "checksum": 4108050209,
+            "compressed_size": 21,
+            "relative_path": "patch_list.txt",
+            "size": 1
+        },
+        {
             "checksum": 2228995218,
             "compressed_size": 364,
             "relative_path": "system\\config.ini",
             "size": 373
         }
     ],
-    "total_compressed_size": 2299939,
-    "total_files": 5,
-    "version": 17714375138813214
+    "total_compressed_size": 2300032,
+    "total_files": 7,
+    "version": 17714376226732187
 }
