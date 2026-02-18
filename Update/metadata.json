@@ -1,10 +1,10 @@
 {
     "files": [
         {
-            "checksum": 3705835397,
-            "compressed_size": 72,
+            "checksum": 614830621,
+            "compressed_size": 82,
             "relative_path": "banlist.txt",
-            "size": 60
+            "size": 122
         },
         {
             "checksum": 975551362,
@@ -37,10 +37,10 @@
             "size": 196193
         },
         {
-            "checksum": 4108050209,
-            "compressed_size": 21,
+            "checksum": 4244315592,
+            "compressed_size": 30,
             "relative_path": "patch_list.txt",
-            "size": 1
+            "size": 10
         },
         {
             "checksum": 2228995218,
@@ -49,7 +49,7 @@
             "size": 373
         }
     ],
-    "total_compressed_size": 2300032,
+    "total_compressed_size": 2300051,
     "total_files": 7,
-    "version": 17714385836629830
+    "version": 17714386976233425
 }
