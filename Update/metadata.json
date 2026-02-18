@@ -31,13 +31,19 @@
             "size": 196193
         },
         {
+            "checksum": 0,
+            "compressed_size": 20,
+            "relative_path": "titi ni pani.txt",
+            "size": 0
+        },
+        {
             "checksum": 2228995218,
             "compressed_size": 364,
             "relative_path": "system\\config.ini",
             "size": 373
         }
     ],
-    "total_compressed_size": 2299939,
-    "total_files": 5,
-    "version": 17713890674060839
+    "total_compressed_size": 2299959,
+    "total_files": 6,
+    "version": 17713895291413981
 }
